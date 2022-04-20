@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bank_jar</output-path>
+    <root id="archive" name="bank.jar">
+      <element id="module-output" name="bank" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mjson-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.26.0-GA/javassist-3.26.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.12/reflections-0.9.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

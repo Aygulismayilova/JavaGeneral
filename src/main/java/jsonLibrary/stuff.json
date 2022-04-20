@@ -1,0 +1,13 @@
+{
+  "vehicleType": "car",
+  "name": "Tesla Model X",
+  "wheels": 4,
+  "passengers": [
+    "Aise",
+    "Fatih",
+    "Zamin",
+    "Fatime",
+    "Aygul"
+  ],
+  "isElectric": true
+}
